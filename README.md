@@ -1,7 +1,7 @@
 ### Olá, tudo bem?👋
 
 
-- 🔭 Hoje trabalho com integração de sistemas usando softwares da IBM
+- 🔭 Experiencia em integração de sistemas usando softwares da IBM e Apigee
 - 🌱 Estudando Apigee
 - 📫 Chama pelo contatinho: yagoabade@hotmail.com
 - 😄 Pronouns: ele/dele
